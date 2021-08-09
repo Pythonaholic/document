@@ -1,10 +1,10 @@
 # Team-Agreement
 
 ### Members Names:
-1. Obada Jaber (team leader).
+1. Abdalrahman Samara (team leader).
 2. Ahmed Zatar.
 3. Hamza Qahoush.
-4. Abdalrahman Samara.
+4. Obada Jaber.
 5. Doa'a Obeidat.
 
 
